@@ -1,0 +1,3 @@
+turno_id,dni,fecha_hora,duracion,servicio,estado
+1,34744153,2025-11-23T15:00:00,45,corte,activo
+2,34744156,2025-11-28T18:00:00,60,baño,activo
