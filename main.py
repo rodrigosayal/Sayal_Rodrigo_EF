@@ -61,7 +61,7 @@ def main():
                 print("\nFecha inválida.\n")
                 continue
 
-            duracion = input("Duración (minutos): ")
+            duracion = input("Duración (sugerencia 60 minutos maximo): ")
 
             if not duracion.isdigit():
                 print("\nLa duración debe ser un número.\n")
